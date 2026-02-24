@@ -52,3 +52,10 @@ MindArc is a digital wellbeing application for Android designed to help students
 - Adaptive difficulty based on user behavior.
 
 ---
+
+## 📄 License
+
+⚠️ This project is licensed for educational and research use only.  
+Commercial use is not permitted without explicit permission from the authors.
+
+---
